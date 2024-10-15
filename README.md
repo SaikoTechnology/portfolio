@@ -2,7 +2,7 @@
 
 ![Portfolio Cover Photo](./images/Portfolio%20Cover%20Photo.png)
 
-*H.Dip. in Science in Artificial Intelligence | B.Sc. in Psychology*
+*H.Dip. Science in Artificial Intelligence | B.Sc. Psychology*
 
 ## About Me
 
