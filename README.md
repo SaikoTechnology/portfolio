@@ -1,5 +1,7 @@
 # Portfolio
 
+![Portfolio Cover Photo](./images/Portfolio%20Cover%20Photo.png)
+
 Full Stack Developer with over 5 years of experience in C#, Python,
 JavaScript, Virtual Reality (VR), and Artificial Intelligence (AI).
 Passionate about tackling complex challenges and pushing the
