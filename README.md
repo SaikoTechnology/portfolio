@@ -24,8 +24,8 @@ DISCLAIMER: This portfolio is a work in progress
 - MARS: Mand Analysis and Reporting System (2022 - 2023)
 - IEP Generator (2022 - 2023)
 - [PALS-Hub](https://github.com/SaikoTechnology/PALS-Hub) (2024)
-- Grating Characterisation
-- [Grating Plotting](https://github.com/SaikoTechnology/Grating-Plotting) (2022)
+- [Grating Characterisation](https://github.com/SaikoTechnology/Grating-Characterisation) (2022)
+- [Grating Plotting](https://github.com/SaikoTechnology/Grating-Plotting) (2023 - 2024)
 
 
 # References
