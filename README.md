@@ -2,6 +2,10 @@
 
 ![Portfolio Cover Photo](./images/Portfolio%20Cover%20Photo.png)
 
+*H.Dip. in Science in Artificial Intelligence | B.Sc. in Psychology*
+
+## About Me
+
 Full Stack Developer with over 5 years of experience in C#, Python,
 JavaScript, Virtual Reality (VR), and Artificial Intelligence (AI).
 Passionate about tackling complex challenges and pushing the
@@ -9,7 +13,7 @@ boundaries of technology to create innovative solutions.
 Background in IT and Psychology provides a unique perspective on
 user experience and technology development. 
 
-This portfolio will provide insights into the range of my work.
+---
 
 DISCLAIMER: This portfolio is a work in progress
 
