@@ -17,7 +17,7 @@ user experience and technology development.
 
 DISCLAIMER: This portfolio is a work in progress
 
-<img src="./images/Under%20construction.png" alt="Under Construction Clipart" width="250" height="300">
+<img src="./images/Under%20construction.png" alt="Under Construction Clipart" width="85" height="100">
 
 
 ## Index
