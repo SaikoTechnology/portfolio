@@ -24,7 +24,7 @@ DISCLAIMER: This portfolio is a work in progress
 
 **Note. Projects currently link to their respective GitHub repos but will link to separate markdown files which provide an overview of the project's motivation, objectives, challenges, and results / impact in an update soon.**
 
-![Learn the Brain VR (2018 - 2021)](./images/project%20covers/Learn%20the%20Brain%20VR.png)
+[![Learn the Brain VR (2018 - 2021)](./images/project%20covers/Learn%20the%20Brain%20VR.png)](./projects/Learn%20the%20Brain%20VR.md)
 - [MoveWise Web Tools](https://github.com/SaikoTechnology/MoveWise.ie) (2024)
 - AI Activity Classification for Head-Mounted Displays (2023 - 2024)
 - Distributed Language Processing for Research Trend Analysis (2024)
