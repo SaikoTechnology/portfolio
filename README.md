@@ -20,15 +20,16 @@ DISCLAIMER: This portfolio is a work in progress
 <img src="./images/Under%20construction.png" alt="Under Construction Clipart" width="85" height="100">
 
 
-## Index
+## Projects
 
 **Note. Projects currently link to their respective GitHub repos but will link to separate markdown files which provide an overview of the project's motivation, objectives, challenges, and results / impact in an update soon.**
 
+![Learn the Brain VR (2018 - 2021)](./images/project%20covers/Learn%20the%20Brain%20VR.png)
 - [MoveWise Web Tools](https://github.com/SaikoTechnology/MoveWise.ie) (2024)
 - AI Activity Classification for Head-Mounted Displays (2023 - 2024)
 - Distributed Language Processing for Research Trend Analysis (2024)
 - Waiting List Processor (2023 - 2024)
-- Learn the Brain VR (2018 - 2021)
+
 - MARS: Mand Analysis and Reporting System (2022 - 2023)
 - IEP Generator (2022 - 2023)
 - [PALS-Hub](https://github.com/SaikoTechnology/PALS-Hub) (2024)
