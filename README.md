@@ -16,6 +16,8 @@ DISCLAIMER: This portfolio is a work in progress
 
 ## Index
 
+**Note. Projects currently link to their respective GitHub repos but will link to separate markdown files which provide an overview of the project's motivation, objectives, challenges, and results / impact in an update soon.**
+
 - [MoveWise Web Tools](https://github.com/SaikoTechnology/MoveWise.ie) (2024)
 - AI Activity Classification for Head-Mounted Displays (2023 - 2024)
 - Distributed Language Processing for Research Trend Analysis (2024)
