@@ -7,6 +7,7 @@
 - Integrated a Sustained Attention to Response Task (SART) to measure cognitive load in VR.
 - Adapted the project for online deployment due to COVID-19, implementing a REST API for secure data transfer.
 - Multiple Choice Question
+- Hand-drawn original art
 
 ![Recruitment Poster for the Project](../images/projects/Learn%20the%20Brain%20VR/Recruitment%20Poster.png)
 **Figure 1.** Recruitment poster for the project.
