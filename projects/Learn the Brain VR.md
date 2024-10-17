@@ -130,12 +130,12 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 ### Appendix A: Recruitment Poster
 
 ![Recruitment Poster for the Project](../images/projects/Learn%20the%20Brain%20VR/Recruitment%20Poster.png)
-**Figure 1.** Recruitment poster for the project.
+**Figure 7.** Recruitment poster for the project.
 
 ### Appendix B: 3D Modelling Progress Comparison
 
 ![Figure depicting 1 year of 3D modelling progress by comparing my brain models](../images/projects/Learn%20the%20Brain%20VR/Brain%20Modelling%201%20Year%20of%20Progress.png)
-**Figure 2.** A comparison of brain models created using Blender 1 year apart.
+**Figure 8.** A comparison of brain models created using Blender 1 year apart.
 
 ### Appendix C: More Bullet Points
 - **Origins of SaikoTechnology**: My GitHub handle is SaikoTechnology, which evolved from PsychoTechnology - the crossroad between Psychology and technology which is where my career in technology was born. The word*"saiko"* (最高) in Japanese means "the best," "supreme," or "awesome." 
