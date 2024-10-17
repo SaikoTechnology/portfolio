@@ -13,18 +13,11 @@ boundaries of technology to create innovative solutions.
 Background in IT and Psychology provides a unique perspective on
 user experience and technology development. 
 
----
-
-DISCLAIMER: This portfolio is a work in progress
-
-<img src="./images/Under%20construction.png" alt="Under Construction Clipart" width="85" height="100">
-
-
 ## Projects
 
-**Note. Projects currently link to their respective GitHub repos but will link to separate markdown files which provide an overview of the project's motivation, objectives, challenges, and results / impact in an update soon.**
+**Hint:** Click on the project's cover photo to learn more about it. 
 
-[![Learn the Brain VR (2018 - 2021)](./images/project%20covers/Learn%20the%20Brain%20VR.png)](./projects/Learn%20the%20Brain%20VR.md)
+[![Learn the Brain VR (2018 - 2021)](./projects/Learn%20the%20Brain%20VR/images/Learn%20the%20Brain%20VR%20Cover%20Photo.png)](./projects/Learn%20the%20Brain%20VR//Learn%20the%20Brain%20VR.md)
 - [MoveWise Web Tools](https://github.com/SaikoTechnology/MoveWise.ie) (2024)
 - AI Activity Classification for Head-Mounted Displays (2023 - 2024)
 - Distributed Language Processing for Research Trend Analysis (2024)
