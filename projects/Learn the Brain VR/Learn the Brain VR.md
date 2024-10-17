@@ -1,4 +1,4 @@
-![Learn the Brain VR Cover Photo](../images/project%20covers/Learn%20the%20Brain%20VR.png)
+![Learn the Brain VR Cover Photo](./images/Learn%20the%20Brain%20VR%20Cover%20Photo.png)
 
 *Dublin City University | 2019*
 
@@ -64,10 +64,10 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Main Finding:** There was no significant interaction between condition and location on learning gain (F(1, 19) = .006, p = 0.938, partial η2 = .000). Additionally, no main effect of condition (F(1, 19) = 0.072, p = .791, partial η2 = .004) or location (F(1, 19) = 3.204, p = .089, partial η2 = .144) was found.
 - **Additional Analysis:** A Wilcoxon signed-rank test revealed a significant increase in learning gain for both DVR (85.71%) and IVR (92.5%) groups compared to a baseline of 0%.
 
-![Bar chart of learning gain between conditions when compared to each group's baseline of 0% learning gain](../images/projects/Learn%20the%20Brain%20VR/results/Bar%20chart%20plotting%20learning%20gain%20compared%20between%20the%20two%20conditions.png)
+![Bar chart of learning gain between conditions when compared to each group's baseline of 0% learning gain](./images/results/Bar%20chart%20plotting%20learning%20gain%20compared%20between%20the%20two%20conditions.png)
 **Figure 1.** Bar chart of learning gain between conditions when compared to each group's baseline of 0% learning gain.
 
-![Clustered bar chart of learning gain between locations and conditions](../images/projects/Learn%20the%20Brain%20VR/results/Clustered%20Bar%20Chart%20of%20Learning%20Gain%20Between%20Groups.png)
+![Clustered bar chart of learning gain between locations and conditions](./images/results/Clustered%20Bar%20Chart%20of%20Learning%20Gain%20Between%20Groups.png)
 **Figure 2.** Clustered bar chart of learning gain between locations and conditions.
 
 ---
@@ -77,7 +77,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Analysis Method:** A two-way ANOVA was used to examine the interaction between condition and location on participants' self-reported sense of presence.
 - **Main Finding:** There was a significant interaction between condition and location (F(1, 19) = 4.836, p = .040, partial η2 = .203). Lab participants reported significantly higher presence than remote participants, particularly in the IVR condition (33.75-point difference, p = 0.002).
 
-![Clustered bar chart of presence between locations and conditions](../images/projects/Learn%20the%20Brain%20VR/results/Clustered%20bar%20chat%20of%20presence%20between%20groups.png)
+![Clustered bar chart of presence between locations and conditions](./images/results/Clustered%20bar%20chat%20of%20presence%20between%20groups.png)
 **Figure 3.** Clustered bar chart of presence between locations and conditions.
 
 ---
@@ -87,7 +87,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Analysis Method:** A Kruskal-Wallis H test was conducted to compare motivation scores between the IVR and DVR groups.
 - **Main Finding:** No significant difference was found between the IVR and DVR groups (χ2(1) = .137, p = .711). However, lab participants reported significantly higher motivation than remote participants (U = .000, p < .001).
 
-![Clustered bar chart of motivation between locations and conditions](../images/projects/Learn%20the%20Brain%20VR/results/Clustered%20bar%20chart%20plotting%20motivation%20by%20group.png)
+![Clustered bar chart of motivation between locations and conditions](./images/results/Clustered%20bar%20chart%20plotting%20motivation%20by%20group.png)
 **Figure 4.** Clustered bar chart of motivation between locations and conditions.
 
 ---
@@ -98,7 +98,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Main Finding:** There was no significant difference between the groups (χ2(1) = .458, p = .498), but lab participants had significantly higher engagement than remote participants (U = 21.00, p = .018).
 
 
-![Clustered bar chart of engagement between locations and conditions](../images/projects/Learn%20the%20Brain%20VR/results/Clustered%20bar%20chart%20of%20engagement%20scores%20across%20groups.png)
+![Clustered bar chart of engagement between locations and conditions](./images/results/Clustered%20bar%20chart%20of%20engagement%20scores%20across%20groups.png)
 **Figure 5.** Clustered bar chart of engagement between locations and conditions.
 
 ---
@@ -108,7 +108,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Analysis Method:** A two-way ANOVA was conducted to examine the effects of condition and location on cognitive load, measured using inverse efficiency scores (IES) from the Sustained Attention to Response Task (SART).
 - **Main Finding:** No significant interaction or main effect was found for condition or location on cognitive load (p > .05 for all comparisons).
 
-![Clustered bar chart of inverse efficiency scores for cognitive load across locations and conditions](../images/projects/Learn%20the%20Brain%20VR/results/Bar%20chart%20of%20inverse%20efficiency%20scores%20for%20cognitive%20load%20between%20conditions.png)
+![Clustered bar chart of inverse efficiency scores for cognitive load across locations and conditions](./images/results/Bar%20chart%20of%20inverse%20efficiency%20scores%20for%20cognitive%20load%20between%20conditions.png)
 **Figure 6.** Clustered bar chart of inverse efficiency scores for cognitive load across locations and conditions.
 
 ---
@@ -129,12 +129,12 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 
 ### Appendix A: Recruitment Poster
 
-![Recruitment Poster for the Project](../images/projects/Learn%20the%20Brain%20VR/Recruitment%20Poster.png)
+![Recruitment Poster for the Project](./images/Recruitment%20Poster.png)
 **Figure 7.** Recruitment poster for the project.
 
 ### Appendix B: 3D Modelling Progress Comparison
 
-![Figure depicting 1 year of 3D modelling progress by comparing my brain models](../images/projects/Learn%20the%20Brain%20VR/Brain%20Modelling%201%20Year%20of%20Progress.png)
+![Figure depicting 1 year of 3D modelling progress by comparing my brain models](./images/Brain%20Modelling%201%20Year%20of%20Progress.png)
 **Figure 8.** A comparison of brain models created using Blender 1 year apart.
 
 ### Appendix C: More Bullet Points
