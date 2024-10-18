@@ -8,6 +8,8 @@
 
 I programmed C# assemblies for real-time data collection and analysis, integrating a Sustained Attention to Response Task (SART) to measure cognitive load in VR. When COVID-19 struck, I adapted the project for online deployment, implementing a REST API for secure data transfer, allowing the project to continue remotely.
 
+![Render of the brain model used in the project](./images/renders/The%20Brain.png)
+**Figure 1.** A render of the final brain model that was implemented interactively in the virtual environment.
 
 ## 2. Motivation:
 
@@ -35,14 +37,22 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 
 
 
-
 ## 4. Technologies Used
 
 - **Blender:** A free 3D modelling platform used to create the virtual environment, from the floor and ceiling to interactive brain models and the hands used for interaction.
+
+![Cerebellum 3D model render](./images/renders/Cerebellum%20(Front).png)
+**Figure 2.** A 3D render of the cerebellum made using Blender which was used in the interactive environment. 
+
 - **Unity:** A powerful game engine used to bring the models to life and create the immersive experience.
 - **Visual Studio Code (Community Edition):** A code editor integrated directly with Unity for streamlined development.
-- **SPSS:** Statistical software utilised to analyse and interpret the experimental data.
 - **SteamVR:** A virtual reality rendering component that interfaced with Unity, offering broad compatibility with various head-mounted display (HMD) systems.
+
+![Pixel Hands Render](./images/renders/Pixel%20Hand.png)
+
+**Figure 3.** A Blender render of the 3D hands which were used to interact with the virtual environment, created using Blender, and brought to life using Unity, C# and the SteamVR library.
+
+- **SPSS:** Statistical software utilised to analyse and interpret the experimental data.
 
 
 
@@ -65,10 +75,10 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Additional Analysis:** A Wilcoxon signed-rank test revealed a significant increase in learning gain for both DVR (85.71%) and IVR (92.5%) groups compared to a baseline of 0%.
 
 ![Bar chart of learning gain between conditions when compared to each group's baseline of 0% learning gain](./images/results/Bar%20chart%20plotting%20learning%20gain%20compared%20between%20the%20two%20conditions.png)
-**Figure 1.** Bar chart of learning gain between conditions when compared to each group's baseline of 0% learning gain.
+**Figure 4.** Bar chart of learning gain between conditions when compared to each group's baseline of 0% learning gain.
 
 ![Clustered bar chart of learning gain between locations and conditions](./images/results/Clustered%20Bar%20Chart%20of%20Learning%20Gain%20Between%20Groups.png)
-**Figure 2.** Clustered bar chart of learning gain between locations and conditions.
+**Figure 5.** Clustered bar chart of learning gain between locations and conditions.
 
 ---
 
@@ -78,7 +88,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Main Finding:** There was a significant interaction between condition and location (F(1, 19) = 4.836, p = .040, partial η2 = .203). Lab participants reported significantly higher presence than remote participants, particularly in the IVR condition (33.75-point difference, p = 0.002).
 
 ![Clustered bar chart of presence between locations and conditions](./images/results/Clustered%20bar%20chat%20of%20presence%20between%20groups.png)
-**Figure 3.** Clustered bar chart of presence between locations and conditions.
+**Figure 6.** Clustered bar chart of presence between locations and conditions.
 
 ---
 
@@ -88,7 +98,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Main Finding:** No significant difference was found between the IVR and DVR groups (χ2(1) = .137, p = .711). However, lab participants reported significantly higher motivation than remote participants (U = .000, p < .001).
 
 ![Clustered bar chart of motivation between locations and conditions](./images/results/Clustered%20bar%20chart%20plotting%20motivation%20by%20group.png)
-**Figure 4.** Clustered bar chart of motivation between locations and conditions.
+**Figure 7.** Clustered bar chart of motivation between locations and conditions.
 
 ---
 
@@ -99,7 +109,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 
 
 ![Clustered bar chart of engagement between locations and conditions](./images/results/Clustered%20bar%20chart%20of%20engagement%20scores%20across%20groups.png)
-**Figure 5.** Clustered bar chart of engagement between locations and conditions.
+**Figure 8.** Clustered bar chart of engagement between locations and conditions.
 
 ---
 
@@ -109,7 +119,7 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Main Finding:** No significant interaction or main effect was found for condition or location on cognitive load (p > .05 for all comparisons).
 
 ![Clustered bar chart of inverse efficiency scores for cognitive load across locations and conditions](./images/results/Bar%20chart%20of%20inverse%20efficiency%20scores%20for%20cognitive%20load%20between%20conditions.png)
-**Figure 6.** Clustered bar chart of inverse efficiency scores for cognitive load across locations and conditions.
+**Figure 9.** Clustered bar chart of inverse efficiency scores for cognitive load across locations and conditions.
 
 ---
 
@@ -133,12 +143,12 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 ### Appendix A: Recruitment Poster
 
 ![Recruitment Poster for the Project](./images/Recruitment%20Poster.png)
-**Figure 7.** Recruitment poster for the project.
+**Figure 10.** Recruitment poster for the project.
 
 ### Appendix B: 3D Modelling Progress Comparison
 
 ![Figure depicting 1 year of 3D modelling progress by comparing my brain models](./images/Brain%20Modelling%201%20Year%20of%20Progress.png)
-**Figure 8.** A comparison of brain models created using Blender 1 year apart.
+**Figure 11.** A comparison of brain models created using Blender 1 year apart.
 
 ### Appendix C: More Bullet Points
 - **Origins of SaikoTechnology:** My GitHub handle is SaikoTechnology, which evolved from PsychoTechnology - the crossroad between Psychology and technology which is where my career in technology was born. The word*"saiko"* (最高) in Japanese means "the best," "supreme," or "awesome." 
