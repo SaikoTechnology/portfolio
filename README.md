@@ -28,8 +28,3 @@ user experience and technology development.
 - [PALS-Hub](https://github.com/SaikoTechnology/PALS-Hub) (2024)
 - [Grating Characterisation](https://github.com/SaikoTechnology/Grating-Characterisation) (2022)
 - [Grating Plotting](https://github.com/SaikoTechnology/Grating-Plotting) (2023 - 2024)
-
-
-# References
-
-Dominique Chappard (2018) Under construction clipart, from https://openclipart.org/detail/293844/under-construction
