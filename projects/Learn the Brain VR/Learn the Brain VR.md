@@ -122,6 +122,9 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 - **Future Applications:** The project underscores the potential for immersive technologies to expand research opportunities, remote learning, and even professional training applications. As a full stack developer, these skills in virtual environment creation, data handling, and user experience design are highly transferrable across different domains.
 - **Academic Achievement:** This project earned a first-class grade, marking a significant milestone in my academic and professional career. It reflects both the technical challenges overcome and the successful implementation of immersive technology in psychological research.
 
+## 7. Acknowledgements
+
+- **Acknowledgement Oversight:** Reflecting on my thesis presentation, I realise I neglected to acknowledge a key contributor to my project, Mr. Patrick Boylan, a vital supervisor and technical staff member in the School of Psychology's VR lab – the first of its kind. His support was instrumental in the success of this project, and without him, it would not have progressed as far as it did. He also imparted the valuable lesson that "perfection is the enemy of progress," which has enabled me to successfully complete projects since.
 
 
 
@@ -138,6 +141,6 @@ I programmed C# assemblies for real-time data collection and analysis, integrati
 **Figure 8.** A comparison of brain models created using Blender 1 year apart.
 
 ### Appendix C: More Bullet Points
-- **Origins of SaikoTechnology**: My GitHub handle is SaikoTechnology, which evolved from PsychoTechnology - the crossroad between Psychology and technology which is where my career in technology was born. The word*"saiko"* (最高) in Japanese means "the best," "supreme," or "awesome." 
+- **Origins of SaikoTechnology:** My GitHub handle is SaikoTechnology, which evolved from PsychoTechnology - the crossroad between Psychology and technology which is where my career in technology was born. The word*"saiko"* (最高) in Japanese means "the best," "supreme," or "awesome." 
 - **On Learning Mediums Comparisons:** In hindsight, I believe we could have better distinguished the differences between VR and more traditional learning methods, like PDFs or slideshows. Since interactive desktop virtual environments aren't commonly used for learning, we didn’t observe a significant contrast between desktop VR and immersive VR. My decision not to include a third medium was mainly due to time constraints and the expectation that our sample size wouldn’t be large enough to effectively compare all three.
 - **Hand-Drawn Digital Art:** The multiple choice question included hand-drawn digital art which was created using Photoshop and a graphics tablet.
