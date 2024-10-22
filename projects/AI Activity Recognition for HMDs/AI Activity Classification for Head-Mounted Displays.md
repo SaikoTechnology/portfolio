@@ -28,3 +28,11 @@
 - **Improved Generalisation:** After fine-tuning, the decision tree and gradient boosting models achieved above 90% accuracy on HMD data.
 - **Significant Contributions:** The study showcases that, with careful preprocessing and tuning, HAR models trained using phone data can be adapted to work effectively on HMDs.
 - **Future Applications:** The project sets a foundation for future work in extending HAR models to VR environments, with potential real-time applications in gaming, healthcare, and productivity.
+
+# Appendix
+
+## Appendix A | Project Poster
+
+![Project Poster](./images/Project%20Poster.png)
+
+**Figure 1.** The poster presentation for the project.
