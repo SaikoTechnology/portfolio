@@ -1,6 +1,6 @@
 ![Learn the Brain VR Cover Photo](./images/Learn%20the%20Brain%20VR%20Cover%20Photo.png)
 
-*Dublin City University | 2019*
+*Dublin City University | 2018 - 2019*
 
 ## 1. Overview
 
