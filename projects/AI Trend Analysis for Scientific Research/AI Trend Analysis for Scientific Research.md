@@ -1,0 +1,1 @@
+![Project Cover Photo](./images/Cover%20Photo%20for%20Project%20AI%20Trend%20Analysis%20for%20Scientific%20Research.png)

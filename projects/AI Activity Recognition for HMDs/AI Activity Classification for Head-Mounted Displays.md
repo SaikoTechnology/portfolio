@@ -1,0 +1,1 @@
+![Project Cover Photo](./images/AI%20Activity%20Recognition%20for%20HMDS%20Project%20Cover.png)
