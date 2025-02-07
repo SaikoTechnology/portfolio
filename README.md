@@ -2,7 +2,7 @@
 
 ![Portfolio Cover Photo](./images/Portfolio%20Cover%20Photo.png)
 
-*H.Dip. Science in Artificial Intelligence | B.Sc. Psychology*
+_H.Dip. Science in Artificial Intelligence | B.Sc. Psychology_
 
 ## About Me
 
@@ -11,11 +11,11 @@ JavaScript, Virtual Reality (VR), and Artificial Intelligence (AI).
 Passionate about tackling complex challenges and pushing the
 boundaries of technology to create innovative solutions.
 Background in IT and Psychology provides a unique perspective on
-user experience and technology development. 
+user experience and technology development.
 
 ## Projects
 
-**Hint:** Click on the project's cover photo to learn more about it. 
+**Hint:** Click on the project's cover photo to learn more about it.
 
 [![Cover Photo  for Learn the Brain VR](./projects/Learn%20the%20Brain%20VR/images/Learn%20the%20Brain%20VR%20Cover%20Photo.png)](./projects/Learn%20the%20Brain%20VR//Learn%20the%20Brain%20VR.md)
 [![Cover Photo for AI Activity Recognition](./projects/AI%20Activity%20Recognition%20for%20HMDs/images/AI%20Activity%20Recognition%20for%20HMDS%20Project%20Cover.png)](./projects/AI%20Activity%20Recognition%20for%20HMDs/AI%20Activity%20Classification%20for%20Head-Mounted%20Displays.md)
